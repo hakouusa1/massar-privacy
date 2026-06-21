@@ -1,7 +1,7 @@
 # Privacy Policy — Massar
 
 **Last updated:** 12 May 2026
-**Effective date:** [DATE OF PUBLICATION]
+**Effective date:** 20 May 2026
 
 This Privacy Policy describes how **Massar** ("we", "us", "our") collects, uses, stores, and shares personal information when you use our mobile applications:
 
@@ -17,9 +17,9 @@ By using any of our applications, you agree to the practices described in this p
 
 Massar is a real-time bus transport platform operating in Algeria.
 
-- **Operator:** [YOUR LEGAL ENTITY / OWNER NAME]
-- **Address:** [YOUR ADDRESS]
-- **Contact:** claudelounes@gmail.com
+- **Operator:** yanis mazouz
+- **Address:** bouira ville , bouira , algeria 
+- **Contact:** massarsystem@gmail.com
 - **Country of operation:** Algeria
 
 ---
@@ -50,7 +50,7 @@ Background location is collected by the Chauffeur app **only while a trip is in 
 
 ### 2.4 Payment and subscription data (Transport app only)
 - Subscription plan, billing history, payment confirmation references
-- We do **not** store full credit card numbers. Payments are processed by [PAYMENT PROVIDER NAME — fill in].
+- We do **not** store full credit card numbers. Payments are processed by yanis mazouz.
 
 ### 2.5 Device and technical information
 - Firebase Cloud Messaging (FCM) device token (for push notifications)
@@ -131,7 +131,7 @@ You have the right to:
 5. **Withdraw consent** for optional processing at any time.
 6. **Export** a copy of your data in a structured, machine-readable format.
 
-To exercise any of these rights, contact us at **claudelounes@gmail.com**. We will respond within 30 days.
+To exercise any of these rights, contact us at **massarsystem@gmail.com**. We will respond within 30 days.
 
 ### Account deletion
 You can delete your account directly from the app:
@@ -140,7 +140,7 @@ You can delete your account directly from the app:
 - **Chauffeur app:** Settings → Account → Delete Account
 - **Voyageur app:** Settings → Account → Delete Account
 
-Or request deletion by email at **claudelounes@gmail.com**.
+Or request deletion by email at **massarsystem@gmail.com**.
 
 ---
 
@@ -173,7 +173,6 @@ Our apps integrate with the following third parties, each governed by their own 
 - **Google Firebase** — https://policies.google.com/privacy
 - **Supabase** — https://supabase.com/privacy
 - **Mapbox** — https://www.mapbox.com/legal/privacy
-- **[PAYMENT PROVIDER]** — [URL]
 
 ---
 
@@ -203,8 +202,8 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 For any privacy-related question or to exercise your rights, contact:
 
-**Email:** claudelounes@gmail.com
-**Address:** [YOUR ADDRESS]
+**Email:** massarsystem@gmail.com
+**Address:** bouira ville , bouira , algeria 
 
 For complaints, you may also contact the Algerian National Authority for the Protection of Personal Data (Autorité Nationale de Protection des Données Personnelles — ANPDP).
 
